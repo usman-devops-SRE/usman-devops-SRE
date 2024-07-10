@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**usman-devops-SRE/usman-devops-SRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hello, my name is Usman.
+<BR>
+## About me:
+Computer science degree.<BR>
+## Objective:
+My experience in devops as blah blah<BR>
+## Projects and Skills:
+### Software Engineering Projects:
+### DevOps Projects:
+## Certifications:
