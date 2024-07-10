@@ -8,4 +8,4 @@ My experience in devops as blah blah<BR>
 ## Projects and Skills:
 ### Software Engineering Projects:
 ### DevOps Projects:
-## Certifications:
+### Certifications:
